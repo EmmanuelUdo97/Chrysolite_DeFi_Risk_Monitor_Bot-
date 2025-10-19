@@ -94,4 +94,3 @@ def startup_event():
     print("Prices:", prices_data)
     print("DeFi Data:", defi_data)
     print("Alerts:", alerts_data)
-
